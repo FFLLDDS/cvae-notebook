@@ -1,3 +1,2 @@
-# cvae-notebook
-
-Implements an autoencoder, a variational autoencoder and a conditional variational autoencoder in a jupyter notebook. 
+# conditional-variational-autoencoder
+Jupyter notebook implementing an autoencoder and a variational autoencoder. 
